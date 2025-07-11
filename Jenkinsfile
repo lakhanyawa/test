@@ -10,7 +10,7 @@ pipeline {
         stage('lakhan') {
             steps {
                 echo "convert this code into .war format"
-                echo "testing"
+                echoo "testing"
             }
         }
     }
