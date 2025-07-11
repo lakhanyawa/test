@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'download code from github'
+                echo 'this is from jenkins file'
             }
         }
         stage('lakhan') {
